@@ -1,2 +1,10 @@
+main{
+    display: flex;
+    align-items: center;
+}
 
+#char-img{
+    max-height: 60vh;
+    max-width: 30vw;
+}
 
